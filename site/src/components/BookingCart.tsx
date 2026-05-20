@@ -38,6 +38,9 @@ const BookingCart = () => {
   const { t } = useTranslation();
   const { cartItems, addToCart, removeFromCart, updateQuantity, clearCart, getTotalItems, getTotalPrice } = useCart();
   const [date, setDate] = useState<Date>();
+  const [customerName, setCustomerName] = useState('');
+  const [customerEmail, setCustomerEmail] = useState('');
+  const [customerPhone, setCustomerPhone] = useState('');
   const [isCartOpen, setIsCartOpen] = useState(true);
   const [selectedHours, setSelectedHours] = useState(2);
   const [isLoading, setIsLoading] = useState(false);
@@ -122,10 +125,10 @@ const BookingCart = () => {
   };
 
   const sendWhatsAppOrder = async () => {
-    if (!date || cartItems.length === 0) {
+    if (!date || cartItems.length === 0 || !customerName || !customerEmail) {
       toast({
         title: t('cart.incompleteOrder'),
-        description: !date ? t('cart.selectDateFirst') : t('cart.addItemsFirst'),
+        description: !customerName ? 'Please enter your name' : !customerEmail ? 'Please enter your email' : !date ? t('cart.selectDateFirst') : t('cart.addItemsFirst'),
         variant: "destructive",
       });
       return;
@@ -136,6 +139,9 @@ const BookingCart = () => {
     try {
       const orderDetails = [
         `📅 Event Date: ${format(date, 'EEEE, MMMM do, yyyy')}`,
+        `👤 Name: ${customerName}`,
+        `📧 Email: ${customerEmail}`,
+        customerPhone ? `📞 Phone: ${customerPhone}` : '',
         '',
         '📸 StudioStation Photo Booth Services:',
         ...cartItems.map(item => 
@@ -145,15 +151,8 @@ const BookingCart = () => {
         `💰 Subtotal: $${getTotalPrice().toFixed(2)}`,
         `📦 Total Items: ${getTotalItems()}`,
         '',
-        '✨ Package includes:',
-        '• Professional DSLR camera setup',
-        '• Premium backdrops & props collection',
-        '• Instant photo printing',
-        '• Professional lighting',
-        '• 1-hour setup included',
-        '',
         '🆕 New booking request from website!'
-      ].join('\n');
+      ].filter(Boolean).join('\n');
       
       // Send to fleet chat instead of WhatsApp
       const res = await fetch('https://relay.mobilemonero.com/api/fleet-chat/send', {
@@ -397,6 +396,32 @@ const BookingCart = () => {
                   ))}
                   
                   <Separator className="my-4" />
+                  
+                  {/* Contact Info — required for booking */}
+                  <div className="space-y-3 border border-primary/20 rounded-lg p-3 bg-primary/5">
+                    <h4 className="text-sm font-semibold text-primary">{t('cart.yourInfo')}</h4>
+                    <input
+                      type="text"
+                      placeholder="Your Name *"
+                      value={customerName}
+                      onChange={(e) => setCustomerName(e.target.value)}
+                      className="w-full h-10 px-3 rounded-md border border-input bg-background text-sm focus:outline-none focus:ring-2 focus:ring-primary"
+                    />
+                    <input
+                      type="email"
+                      placeholder="Your Email *"
+                      value={customerEmail}
+                      onChange={(e) => setCustomerEmail(e.target.value)}
+                      className="w-full h-10 px-3 rounded-md border border-input bg-background text-sm focus:outline-none focus:ring-2 focus:ring-primary"
+                    />
+                    <input
+                      type="tel"
+                      placeholder="Your Phone"
+                      value={customerPhone}
+                      onChange={(e) => setCustomerPhone(e.target.value)}
+                      className="w-full h-10 px-3 rounded-md border border-input bg-background text-sm focus:outline-none focus:ring-2 focus:ring-primary"
+                    />
+                  </div>
                   
                   <div className="space-y-3">
                     <div className="flex justify-between items-center">
