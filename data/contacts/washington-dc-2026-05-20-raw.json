@@ -1,0 +1,258 @@
+{
+  "city": "Washington DC",
+  "queries": 12,
+  "unique_urls": 38,
+  "unique_emails": 50,
+  "emails": [
+    {
+      "email": "adixon@allsouls.ws",
+      "venues": "Event and Meeting Spaces | Washington Peace Center",
+      "url": "https://washingtonpeacecenter.net/spaces/"
+    },
+    {
+      "email": "admin@capitolhillpreschurch.org",
+      "venues": "Event and Meeting Spaces | Washington Peace Center",
+      "url": "https://washingtonpeacecenter.net/spaces/"
+    },
+    {
+      "email": "admin@QuakersDC.org",
+      "venues": "Friends Meeting of Washington | Join Our Community",
+      "url": "https://quakersdc.org/"
+    },
+    {
+      "email": "ateventrentals@dc.gov",
+      "venues": "Event Rentals at MLK",
+      "url": "https://dclibrary.org/using-the-library/event-rentals-mlk"
+    },
+    {
+      "email": "atnatalie@mtghospitality.com",
+      "venues": "U.S. National Arboretum",
+      "url": "https://www.usna.usda.gov/about/facility-use/weddings/"
+    },
+    {
+      "email": "atnhevents@si.eduto",
+      "venues": "Rental of the National Museum of Natural History",
+      "url": "https://naturalhistory.si.edu/join-us/host-event-museum/rental-national-museum-natural-history"
+    },
+    {
+      "email": "bmefford@festivalcenter.org",
+      "venues": "Employment - The Festival Center",
+      "url": "https://festivalcenter.org/employment/"
+    },
+    {
+      "email": "catering@nationalgolfclubmd.com",
+      "venues": "Weddings - National Golf Club",
+      "url": "https://www.nationalgolfclubmd.com/wedding-and-events/weddings"
+    },
+    {
+      "email": "ciheacho@phoenixparkhotel.com",
+      "venues": "An All-Star Hotel\u00a0Event and Wedding Planners Washington D.C.",
+      "url": "https://www.phoenixparkhotel.com/event-planning-team.htm"
+    },
+    {
+      "email": "dmays@eventsdc.com",
+      "venues": "",
+      "url": "https://eventsdc.com/sites/default/files/2020-11/Events%20DC%20Rental%20Info_RFK%20Stadium-DC%20Armory%20Campus%20%282012%29_0.pdf"
+    },
+    {
+      "email": "error@releasecontact.com",
+      "venues": "FinancialContent - Utah's $1.5 Billion Wedding Market Is Reshaping Venue Demand,",
+      "url": "https://markets.financialcontent.com/stocks/article/marketersmedia-2026-5-7-utahs-15-billion-wedding-market-is-reshaping-venue-demand-and-kimball-terrace-is-defining-the-standard-for-a-park-city-wedding-venue"
+    },
+    {
+      "email": "eventrentals@dc.gov",
+      "venues": "Event Rentals at MLK",
+      "url": "https://dclibrary.org/using-the-library/event-rentals-mlk"
+    },
+    {
+      "email": "eventrentals@phillipscollection.org",
+      "venues": "Rentals | The Phillips Collection",
+      "url": "https://www.phillipscollection.org/about/rentals"
+    },
+    {
+      "email": "events@busboysandpoets.com",
+      "venues": "Event and Meeting Spaces | Washington Peace Center",
+      "url": "https://washingtonpeacecenter.net/spaces/"
+    },
+    {
+      "email": "events@dumbartonhouse.org",
+      "venues": "Event Packages and Rates \u2013 Dumbarton House",
+      "url": "https://dumbartonhouse.org/book/event-packages-and-rates/"
+    },
+    {
+      "email": "events@thecheneyplace.com",
+      "venues": "Four West Michigan Wedding Venues Offering Free Wedding Websites with Online RSV",
+      "url": "https://www.einpresswire.com/article/913608368/four-west-michigan-wedding-venues-offering-free-wedding-websites-with-online-rsvp"
+    },
+    {
+      "email": "eventspace@quakersdc.org",
+      "venues": "Dupont Circle Event Venue - Friends Meeting of Washington",
+      "url": "https://events.quakersdc.org/event-venue/"
+    },
+    {
+      "email": "gbcs@umc-gbcs.org",
+      "venues": "Event and Meeting Spaces | Washington Peace Center",
+      "url": "https://washingtonpeacecenter.net/spaces/"
+    },
+    {
+      "email": "info@herecomestheguide.com",
+      "venues": "Outdoor Wedding Venues in Washington DC",
+      "url": "https://www.herecomestheguide.com/wedding-venues/washington-dc/outdoor"
+    },
+    {
+      "email": "info@hookhall.com",
+      "venues": "Hook Hall | Washington DC",
+      "url": "https://washington.org/meetings/find-dc-listings/hook-hall"
+    },
+    {
+      "email": "info@srmfoundation.org",
+      "venues": "Event and Meeting Spaces | Washington Peace Center",
+      "url": "https://washingtonpeacecenter.net/spaces/"
+    },
+    {
+      "email": "jwashington@phoenixparkhotel.com",
+      "venues": "An All-Star Hotel\u00a0Event and Wedding Planners Washington D.C.",
+      "url": "https://www.phoenixparkhotel.com/event-planning-team.htm"
+    },
+    {
+      "email": "kweber@nmwa.org",
+      "venues": "Mental Health Awareness Month at the National Museum of Women in the Arts | Nati",
+      "url": "https://nmwa.org/press/mental-health-awareness-month-at-the-national-museum-of-women-in-the-arts/"
+    },
+    {
+      "email": "laldana@phoenixparkhotel.com",
+      "venues": "An All-Star Hotel\u00a0Event and Wedding Planners Washington D.C.",
+      "url": "https://www.phoenixparkhotel.com/event-planning-team.htm"
+    },
+    {
+      "email": "Laura@LIGevents.com",
+      "venues": "Contact \u2014 LIG Events | Washington, DC Wedding and Event Planner",
+      "url": "http://www.ligevents.com/contact"
+    },
+    {
+      "email": "magicsmilesphotobooth@outlook.com",
+      "venues": "Photo Booth Rental NYC & Long Island | Magic Smiles",
+      "url": "https://magicsmilesphotobooth.com/"
+    },
+    {
+      "email": "media@ncbfdc.org",
+      "venues": "Contact the National Cherry Blossom Festival",
+      "url": "https://nationalcherryblossomfestival.org/contact/"
+    },
+    {
+      "email": "michele@longviewgallerydc.com",
+      "venues": "Long View Gallery",
+      "url": "https://www.worldclassweddingvenues.com/venue-display/vid/5683"
+    },
+    {
+      "email": "mimi@washingtoncountryclub.golf",
+      "venues": "Washington Country Club | Banquets & Weddings | Washington, PA",
+      "url": "https://www.washingtoncountryclub.golf/banquets-weddings"
+    },
+    {
+      "email": "ncbf@ncbfdc.org",
+      "venues": "Contact the National Cherry Blossom Festival",
+      "url": "https://nationalcherryblossomfestival.org/contact/"
+    },
+    {
+      "email": "NHEvents@si.edu",
+      "venues": "Host an Event at the Museum | Smithsonian National Museum of Natural History",
+      "url": "https://naturalhistory.si.edu/join-us/host-event-museum"
+    },
+    {
+      "email": "NMNH-Comms@si.eduor",
+      "venues": "Rental of the National Museum of Natural History",
+      "url": "https://naturalhistory.si.edu/join-us/host-event-museum/rental-national-museum-natural-history"
+    },
+    {
+      "email": "Phillips202-318-6952info@procaterersdc.com",
+      "venues": "FinancialContent - Pro Caterers DC Expands Corporate Catering Services to Meet G",
+      "url": "https://markets.financialcontent.com/stocks/article/pressadvantage-2026-5-15-pro-caterers-dc-expands-corporate-catering-services-to-meet-growing-demand-in-washington"
+    },
+    {
+      "email": "rentals@ahsgardening.org",
+      "venues": "Weddings at River Farm - American Horticultural Society",
+      "url": "https://ahsgardening.org/weddings-at-river-farm/"
+    },
+    {
+      "email": "sakuramatsuri@jaswdc.org",
+      "venues": "Contact the National Cherry Blossom Festival",
+      "url": "https://nationalcherryblossomfestival.org/contact/"
+    },
+    {
+      "email": "sales@hayadams.com",
+      "venues": "Wedding Inquires | The Hay-Adams, Luxury Hotel in DC",
+      "url": "http://hayadams.com/weddings/wedding-inquiries/"
+    },
+    {
+      "email": "Sales@jeffersondc.com",
+      "venues": "Luxury Wedding Venues in DC | The Jefferson, Washington, DC",
+      "url": "https://www.jeffersondc.com/meetings-events/weddings/"
+    },
+    {
+      "email": "sales@salamanderdc.com",
+      "venues": "Meetings & Events | Meetings | Salamander DC",
+      "url": "https://www.salamanderdc.com/gatherings/meetings/overview"
+    },
+    {
+      "email": "sales@thehotelwashington.com",
+      "venues": "Meeting Venue Washington DC | Hotel Washington",
+      "url": "https://www.thehotelwashington.com/washington-dc-travel-guide/meeting-venue-washington-dc"
+    },
+    {
+      "email": "Salesinfo@eventsdc.com",
+      "venues": "Walter E. Washington Convention Center - Washington, DC Convention Center & Even",
+      "url": "https://www.meetings-conventions.com/Meeting-Event-Venues/Washington-DC/Convention-Center/Walter-E-Washington-Convention-Center-p55424643"
+    },
+    {
+      "email": "shall@phoenixparkhotel.com",
+      "venues": "An All-Star Hotel\u00a0Event and Wedding Planners Washington D.C.",
+      "url": "https://www.phoenixparkhotel.com/event-planning-team.htm"
+    },
+    {
+      "email": "shellypatephoto@gmail.com",
+      "venues": "Top 10 Garden Wedding Venues in the DC Metro Area | Shelly Pate Photography",
+      "url": "https://shellypatephotography.com/top-10-garden-wedding-venues-in-the-dc-metro-area/"
+    },
+    {
+      "email": "spacerental@publicwelfare.org",
+      "venues": "Event and Meeting Spaces | Washington Peace Center",
+      "url": "https://washingtonpeacecenter.net/spaces/"
+    },
+    {
+      "email": "spaceusage@publicwelfare.org",
+      "venues": "Booking Process - Nonprofits | Public Welfare Foundation",
+      "url": "https://www.publicwelfare.org/true-reformer-building/booking-process/"
+    },
+    {
+      "email": "specialeventsinquiry@nmwa.org",
+      "venues": "Host an Event | National Museum of Women in the Arts",
+      "url": "https://nmwa.org/host-event/"
+    },
+    {
+      "email": "sponsorship@ncbfdc.org",
+      "venues": "Contact the National Cherry Blossom Festival",
+      "url": "https://nationalcherryblossomfestival.org/contact/"
+    },
+    {
+      "email": "tdent@lpc.com",
+      "venues": "The Observatory; Request a tour \u2014",
+      "url": "https://www.theobservatoryatamericassquare.com/"
+    },
+    {
+      "email": "thefields@goplaydc.org",
+      "venues": "Contact Info | Events DC; Field Permits | Events DC",
+      "url": "https://eventsdc.com/venue/fields-rfk-campus/contact-info"
+    },
+    {
+      "email": "Tiffany.Barrett@concordhotels.com",
+      "venues": "Event Space | The Wharf DC",
+      "url": "https://www.wharfdc.com/event-space/"
+    },
+    {
+      "email": "volunteer@ncbfdc.org",
+      "venues": "Contact the National Cherry Blossom Festival",
+      "url": "https://nationalcherryblossomfestival.org/contact/"
+    }
+  ]
+}
