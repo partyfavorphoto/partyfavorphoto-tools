@@ -33,8 +33,8 @@ const Footer = () => {
                 <span>(202) 798-0610</span>
               </div>
               <div className="flex items-center gap-2">
-                <MapPin className="h-4 w-4" />
-                <span>Arlington, VA</span>
+                <Mail className="h-4 w-4" />
+                <span>bookings@partyfavorphoto.com</span>
               </div>
             </div>
           </div>
@@ -44,11 +44,11 @@ const Footer = () => {
             <h3 className="font-bold text-lg mb-4">Service Areas</h3>
             <ul className="space-y-2 text-secondary-foreground/80">
               <li>Washington D.C.</li>
-              <li>Arlington, VA</li>
-              <li>Bethesda, MD</li>
-              <li>Alexandria, VA</li>
-              <li>Chevy Chase, MD</li>
-              <li>Tysons Corner, VA</li>
+              <li>Northern Virginia</li>
+              <li>Maryland Suburbs</li>
+              <li>Dallas/Fort Worth, TX</li>
+              <li>Pennsylvania / New Jersey</li>
+              <li>Richmond, VA</li>
             </ul>
           </div>
         </div>

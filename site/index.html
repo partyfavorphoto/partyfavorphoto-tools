@@ -11,7 +11,7 @@
     <meta name="author" content="Party Favor Photo" />
     <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
     <meta name="googlebot" content="index, follow" />
-    <link rel="canonical" href="https://xmrtdao.github.io/partyfavorphoto/" />
+    <link rel="canonical" href="https://partyfavorphoto.com/" />
     
     <!-- Advanced SEO -->
     <meta name="geo.region" content="US-DC" />
@@ -33,10 +33,10 @@
 
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://xmrtdao.github.io/partyfavorphoto/" />
+    <meta property="og:url" content="https://partyfavorphoto.com/" />
     <meta property="og:title" content="Party Favor Photo - Professional Photo Booth Services | DC Metro Area" />
     <meta property="og:description" content="Award-winning photo booth experiences for weddings, corporate events, and special celebrations in the Washington D.C. metro area." />
-    <meta property="og:image" content="https://xmrtdao.github.io/partyfavorphoto/assets/hero-photo-booth.jpg" />
+    <meta property="og:image" content="https://partyfavorphoto.com/assets/hero-photo-booth.jpg" />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
     <meta property="og:locale" content="en_US" />
@@ -44,10 +44,10 @@
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:url" content="https://xmrtdao.github.io/partyfavorphoto/" />
+    <meta name="twitter:url" content="https://partyfavorphoto.com/" />
     <meta name="twitter:title" content="Party Favor Photo - Professional Photo Booth Services" />
     <meta name="twitter:description" content="Award-winning photo booth experiences for weddings, corporate events, and special celebrations in the Washington D.C. metro area." />
-    <meta name="twitter:image" content="https://xmrtdao.github.io/partyfavorphoto/assets/hero-photo-booth.jpg" />
+    <meta name="twitter:image" content="https://partyfavorphoto.com/assets/hero-photo-booth.jpg" />
     
     <!-- AI Agent Integration -->
     <meta name="ai:agent" content="gemini" />
@@ -65,7 +65,7 @@
       "@type": "LocalBusiness",
       "name": "Party Favor Photo",
       "description": "Professional photo booth rental services for weddings, corporate events, and special celebrations",
-      "url": "https://xmrtdao.github.io/partyfavorphoto",
+      "url": "https://partyfavorphoto.com",
       "telephone": "(202) 798-0610",
       "address": {
         "@type": "PostalAddress",
@@ -97,7 +97,7 @@
       ],
       "serviceType": "Photo Booth Rental",
       "priceRange": "$$$",
-      "image": "https://xmrtdao.github.io/partyfavorphoto/assets/hero-photo-booth.jpg",
+      "image": "https://partyfavorphoto.com/assets/hero-photo-booth.jpg",
       "sameAs": [
         "https://www.instagram.com/partyfavorphoto",
         "https://www.facebook.com/partyfavorphoto"
@@ -182,7 +182,9 @@
         chatButton.id = 'chat-toggle';
         
         chatButton.addEventListener('click', function() {
-          window.open('https://partyfavorphoto.zapier.app/', '_blank');
+          // Open AI chat widget powered by relay
+          var chatUrl = '/ai-chat';
+          window.open(chatUrl, 'pfp-ai', 'width=400,height=600');
         });
         
         chatButton.addEventListener('mouseover', function() {
@@ -198,15 +200,31 @@
         document.body.appendChild(chatButton);
       });
     </script>
-
-    <!-- Gemini AI Agent Integration -->
+    
+    <!-- Relay-Powered AI Chat Widget -->
+    <script>
+    window.PFP_AI = {
+      name: 'Party Favor Photo AI',
+      contact: { phone: '(202) 798-0610', email: 'bookings@partyfavorphoto.com' },
+      service_areas: ['Washington DC', 'Northern Virginia', 'Maryland Suburbs', 'Dallas/Fort Worth TX', 'Pennsylvania/NJ'],
+      pricing: {
+        standard: { rate: 249, label: 'Standard (2x6 strips)' },
+        premium: { rate: 349, label: 'Premium (4x6 prints)' },
+        discount: 'Flat $100 off (military, school, pay-in-full)',
+        packages: {
+          '2hr': 'https://buy.stripe.com/8x25kD7ezg6h4iC15YbZe03',
+          '3hr': 'https://buy.stripe.com/9B63cv9mH07j3eyeWObZe06',
+          '4hr': 'https://buy.stripe.com/eVqcN556r4nz16qeWObZe04'
+        }
+      }
+    };Gemini AI Agent Integration -->
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
       "@type": "ChatBot",
       "name": "Party Favor Photo AI Assistant",
       "description": "AI-powered assistant for photo booth bookings, pricing inquiries, and event planning consultation",
-      "url": "https://xmrtdao.github.io/partyfavorphoto",
+      "url": "https://partyfavorphoto.com",
       "applicationCategory": "Business Assistant",
       "operatingSystem": "Web",
       "permissions": ["booking", "pricing", "availability", "consultation"],
