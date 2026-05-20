@@ -1,0 +1,91 @@
+{
+  "business": {
+    "name": "Party Favor Photo",
+    "tagline": "Creating unforgettable memories, one photo at a time.",
+    "contact": {
+      "phone": "(202) 798-0610",
+      "email": "info@partyfavorphoto.com",
+      "whatsapp": "+50661500559"
+    },
+    "locations": [
+      "Washington D.C.",
+      "Maryland",
+      "Virginia",
+      "Colorado",
+      "Texas",
+      "Florida"
+    ]
+  },
+  "packages": [
+    {
+      "id": "studio-station",
+      "name": "StudioStation Photo Booth",
+      "subtitle": "Our flagship service",
+      "price": "From $498",
+      "duration": "2-5 hours",
+      "description": "Professional DSLR camera with glamorous sequin backdrops, goofy props, QR code sharing and unlimited custom prints",
+      "features": [
+        "Professional DSLR Camera",
+        "Glamorous Sequin Backdrops",
+        "Professional strobe lighting",
+        "Unlimited Custom Prints",
+        "QR Code Photo Sharing",
+        "Professional Attendant",
+        "Goofy props included",
+        "1 hour free setup included"
+      ]
+    },
+    {
+      "id": "wedding-package",
+      "name": "Wedding Packages",
+      "subtitle": "Make your special day unforgettable",
+      "price": "From $998",
+      "duration": "4-6 hours",
+      "description": "Custom wedding backdrops with guest book integration and same-day photo delivery",
+      "features": [
+        "Custom Wedding Backdrops",
+        "Bride & groom props",
+        "Guest Book Integration",
+        "Online gallery access",
+        "Same-Day Photo Delivery",
+        "Coordinator included",
+        "Professional Setup & Breakdown"
+      ]
+    },
+    {
+      "id": "corporate-events",
+      "name": "Corporate Events",
+      "subtitle": "Professional fun for business",
+      "price": "From $750",
+      "duration": "3-8 hours",
+      "description": "Branded backdrops with social media integration for corporate events and team building",
+      "features": [
+        "Branded backdrops available",
+        "Corporate prop packages",
+        "Digital delivery options",
+        "Social Media Integration",
+        "Professional setup",
+        "Event Coordination",
+        "Custom print layouts"
+      ]
+    },
+    {
+      "id": "celebration-package",
+      "name": "Celebration Packages",
+      "subtitle": "Making every milestone unforgettable",
+      "price": "From $595",
+      "duration": "3-5 hours",
+      "description": "Perfect for birthdays, bar mitzvahs, and quinceañeras featuring colorful balloon arches and custom themed props.",
+      "features": [
+        "Custom Balloon Arches",
+        "Themed Props & Backdrops",
+        "Age-appropriate backdrops",
+        "Cultural celebration elements",
+        "Custom print designs",
+        "Party Coordination",
+        "Themed decoration setup",
+        "Social media sharing"
+      ]
+    }
+  ]
+}

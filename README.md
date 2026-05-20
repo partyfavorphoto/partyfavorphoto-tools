@@ -1,9 +1,23 @@
-# Party Favor Photo — Agent Toolkit
+# Party Favor Photo — Agent Toolkit + Website
 
-Welcome, agent. This repo contains everything you need to support Party Favor Photo:
-send quotes, fill forms, generate contracts, and manage bookings.
+Welcome, agent. This repo contains the Party Favor Photo **agent toolkit** (quotes, contracts, forms) and the **website** ([site/](./site/)).
 
-## Quick Start
+The website is deployed via GitHub Pages at **https://xmrtdao.github.io/partyfavorphoto/**.
+
+## Website (`site/`)
+
+Built with Vite + React + Tailwind + shadcn/ui.
+
+```bash
+cd site
+npm install
+npm run dev      # Local dev server
+npm run build    # Production build → site/dist/
+```
+
+The site auto-deploys on push via GitHub Actions (see [workflow](.github/workflows/deploy.yml)).
+
+## Agent Toolkit — Quick Start
 
 ```bash
 # Generate a quote and email it

@@ -2,3 +2,5 @@ node_modules/
 .env
 forms/screenshots/
 *.log
+site/node_modules/
+site/dist/
