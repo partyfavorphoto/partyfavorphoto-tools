@@ -201,23 +201,25 @@
       });
     </script>
     
-    <!-- Relay-Powered AI Chat Widget -->
+    <!-- PFP AI Chat — sends to fleet chat (agents respond live) -->
     <script>
     window.PFP_AI = {
       name: 'Party Favor Photo AI',
       contact: { phone: '(202) 798-0610', email: 'bookings@partyfavorphoto.com' },
       service_areas: ['Washington DC', 'Northern Virginia', 'Maryland Suburbs', 'Dallas/Fort Worth TX', 'Pennsylvania/NJ'],
-      pricing: {
-        standard: { rate: 249, label: 'Standard (2x6 strips)' },
-        premium: { rate: 349, label: 'Premium (4x6 prints)' },
-        discount: 'Flat $100 off (military, school, pay-in-full)',
-        packages: {
-          '2hr': 'https://buy.stripe.com/8x25kD7ezg6h4iC15YbZe03',
-          '3hr': 'https://buy.stripe.com/9B63cv9mH07j3eyeWObZe06',
-          '4hr': 'https://buy.stripe.com/eVqcN556r4nz16qeWObZe04'
-        }
+      pricing: { standard: { rate: 249, label: 'Standard (2x6 strips)' }, premium: { rate: 349, label: 'Premium (4x6 prints)' }, discount: 'Flat $100 off (military, school, pay-in-full)', packages: { '2hr': 'https://buy.stripe.com/8x25kD7ezg6h4iC15YbZe03', '3hr': 'https://buy.stripe.com/9B63cv9mH07j3eyeWObZe06', '4hr': 'https://buy.stripe.com/eVqcN556r4nz16qeWObZe04' } },
+      ask: function(q) {
+        var el = document.getElementById('pfp-ai-response');
+        el.textContent = 'One moment, connecting you...';
+        fetch('https://relay.mobilemonero.com/api/fleet-chat/send', {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({agent:'vex',message:'📧 WEBSITE INQUIRY: ' + q, channel:'all'})})
+          .then(function(r){return r.json();})
+          .then(function(d){
+            el.textContent = 'Your inquiry has been sent to our team. We will respond shortly! Call (202) 798-0610 for immediate assistance.';
+          })
+          .catch(function(){ el.textContent = 'Call us at (202) 798-0610 for immediate help!'; });
       }
-    };Gemini AI Agent Integration -->
+    };
+    </script>
     <script type="application/ld+json">
     {
       "@context": "https://schema.org",
