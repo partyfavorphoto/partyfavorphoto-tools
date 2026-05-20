@@ -329,7 +329,7 @@
       <input id="chat-email" type="email" placeholder="Your email *" style="width:100%;padding:10px 12px;border-radius:6px;border:1px solid #2a2a3a;background:#0d0d15;color:#e0e0f0;font-size:13px;outline:none;box-sizing:border-box;margin-bottom:6px;">
       <input id="chat-input" type="text" placeholder="Your question..." style="width:100%;padding:10px 12px;border-radius:6px;border:1px solid #2a2a3a;background:#0d0d15;color:#e0e0f0;font-size:13px;outline:none;box-sizing:border-box;">
       <button id="chat-send" style="margin-top:6px;width:100%;padding:10px;border:none;border-radius:6px;background:#2563eb;color:#fff;font-size:13px;font-weight:600;cursor:pointer;">Send</button>
-      <div id="chat-response" style="margin-top:8px;font-size:12px;display:none;"></div>
+      <div id="chat-response" style="margin-top:8px;padding:6px 8px;border-radius:4px;font-size:12px;font-weight:500;display:none;"></div>
       <div style="margin-top:10px;padding-top:8px;border-top:1px solid #2a2a3a;font-size:11px;color:#6b6b80;text-align:center;">Or call <strong style="color:#e0e0f0;">(202) 798-0610</strong></div>
     </div>
   </div>
@@ -342,10 +342,10 @@
       var inp = document.getElementById('chat-input');
       var email = document.getElementById('chat-email').value.trim();
       var msg = inp.value.trim();
-      if (!email || !msg) { var resp = document.getElementById('chat-response'); resp.style.display = 'block'; resp.textContent = 'Please enter your email and question'; return; }
+      if (!email || !msg) { var resp = document.getElementById('chat-response'); resp.style.display = 'block'; resp.style.color='#fbbf24';resp.style.background='#2a1a0a';resp.textContent='Please enter your email and question'; return; }
       var resp = document.getElementById('chat-response');
-      resp.style.display = 'block'; resp.textContent = 'Sending...';
-      fetch('https://relay.mobilemonero.com/api/fleet-chat/send',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({agent:'vex',message:'From: '+email+' | '+msg,channel:'all'})}).then(function(r){if(r.ok){resp.textContent='Sent! We will respond.';inp.value='';}else{resp.textContent='Call (202) 798-0610';}}).catch(function(){resp.textContent='Call (202) 798-0610';});
+      resp.style.display='block';resp.style.color='#93c5fd';resp.style.background='#0a1a2a';resp.textContent='Sending your message...';
+      fetch('https://relay.mobilemonero.com/api/fleet-chat/send',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({agent:'vex',message:'From: '+email+' | '+msg,channel:'all'})}).then(function(r){if(r.ok){resp.style.color='#4ade80';resp.style.background='#0a2a1a';resp.textContent='Sent! We will respond to '+email;email.value='';inp.value='';}else{resp.style.color='#f87171';resp.style.background='#2a0a0a';resp.textContent='Call (202) 798-0610';}}).catch(function(){resp.textContent='Call (202) 798-0610';});
     };
     document.getElementById('chat-input').onkeydown = function(e) { if (e.key === 'Enter') document.getElementById('chat-send').click(); };
   </script></body>
