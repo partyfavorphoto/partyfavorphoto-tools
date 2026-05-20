@@ -1,0 +1,53 @@
+{
+  "businessName": "Party Favor Photo",
+  "contactName": "Joe Lee",
+  "email": "bookings@partyfavorphoto.com",
+  "phone": "(202) 798-0610",
+  "website": "https://partyfavorphoto.com",
+  "instagram": "@partyfavorphoto",
+  "rates": {
+    "standard": { "label": "Standard (2x6 strips)", "rate": 249 },
+    "premium": { "label": "Premium (4x6 prints)", "rate": 349 }
+  },
+  "maxDiscount": 100,
+  "discountTypes": ["Military", "School/Education", "Pay-in-Full"],
+  "stripeLinks": {
+    "2": "https://buy.stripe.com/8x25kD7ezg6h4iC15YbZe03",
+    "3": "https://buy.stripe.com/9B63cv9mH07j3eyeWObZe06",
+    "4": "https://buy.stripe.com/eVqcN556r4nz16qeWObZe04"
+  },
+  "serviceArea": "Washington DC + Dallas/Fort Worth",
+  "insurance": "$1M General Liability Coverage",
+  "addOns": {
+    "secondAttendant": 350,
+    "socialReel": 200,
+    "backdropUpgrade": 150,
+    "outdoorSetup": 100
+  },
+  "inclusions": {
+    "standard": [
+      "Professional StudioStation with bounce-diffused strobe lighting",
+      "Professional DSLR cameras for editorial-quality photos",
+      "Unlimited 2x6 photo strips with custom branded template",
+      "Digital photo delivery via QR code and SMS text",
+      "Professional attendant for all booked hours",
+      "Full setup and breakdown at designated location",
+      "Custom backdrop and prop selection",
+      "Online gallery for all photos captured",
+      "Social media sharing station with event hashtag"
+    ],
+    "premium": [
+      "Professional StudioStation with bounce-diffused strobe lighting",
+      "Professional DSLR cameras for editorial-quality photos",
+      "Unlimited premium 4x6 prints on professional photo paper",
+      "Custom branded template matching your event aesthetic",
+      "Digital photo delivery via QR code and SMS text",
+      "Professional attendant for all booked hours",
+      "Full setup and breakdown at designated location",
+      "Custom backdrop and prop selection",
+      "Online gallery for all photos captured",
+      "Social media sharing station with event hashtag",
+      "AI watercolor portrait generation"
+    ]
+  }
+}

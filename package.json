@@ -1,0 +1,14 @@
+{
+  "name": "partyfavorphoto",
+  "version": "1.0.0",
+  "description": "Party Favor Photo - agent toolkit for quotes, contracts, and form filling",
+  "type": "module",
+  "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "playwright": "^1.59.0"
+  },
+  "scripts": {
+    "generate-contracts": "node contracts/generate.mjs",
+    "generate-quote": "node quotes/generate.mjs"
+  }
+}
