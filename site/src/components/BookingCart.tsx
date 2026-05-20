@@ -152,20 +152,28 @@ const BookingCart = () => {
         '• Professional lighting',
         '• 1-hour setup included',
         '',
-        'Ready to book! Please confirm availability and provide event details.'
+        '🆕 New booking request from website!'
       ].join('\n');
-
-      const whatsappUrl = `https://wa.me/50661500559?text=${encodeURIComponent(orderDetails)}`;
-      window.open(whatsappUrl, '_blank');
       
-      toast({
-        title: t('cart.bookingInitiated'),
-        description: t('cart.whatsappOpened'),
+      // Send to fleet chat instead of WhatsApp
+      const res = await fetch('https://relay.mobilemonero.com/api/fleet-chat/send', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ agent: 'vex', message: '🛒 BOOKING REQUEST\n\n' + orderDetails, channel: 'all' })
       });
+      
+      if (res.ok) {
+        toast({
+          title: 'Booking Sent!',
+          description: 'Your booking request has been sent to our team. We will confirm availability shortly!',
+        });
+      } else {
+        throw new Error('Failed to send');
+      }
     } catch (error) {
       toast({
-        title: t('cart.error'),
-        description: t('cart.whatsappFailed'),
+        title: 'Error',
+        description: 'Could not send booking. Please call (202) 798-0610.',
         variant: "destructive",
       });
     } finally {
