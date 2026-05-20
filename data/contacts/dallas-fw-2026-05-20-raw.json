@@ -1,0 +1,517 @@
+{
+  "source": "Exa search via XMRT Fleet",
+  "cities": [
+    "Dallas",
+    "Fort Worth"
+  ],
+  "queries_run": 13,
+  "unique_urls": 178,
+  "unique_emails": 101,
+  "emails": [
+    {
+      "email": "AldredgeHouse@gmail.com",
+      "venues": "Non-Profit Use | Aldredge House | United States",
+      "url": "https://www.aldredgehouse.org/non-profit-use"
+    },
+    {
+      "email": "allison.domanic@hilton.com",
+      "venues": "",
+      "url": "https://www.nemra.org/wp-content/uploads/2021/09/Anatole-Dallas-Hotel-Contacts2.pdf"
+    },
+    {
+      "email": "Allison.Mcnamara@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "amanda.timpte@hilton.com",
+      "venues": "",
+      "url": "https://www.nemra.org/wp-content/uploads/2021/09/Anatole-Dallas-Hotel-Contacts2.pdf"
+    },
+    {
+      "email": "andra.bennett@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "Andrea.Wright@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "aochoa@fwbg.org",
+      "venues": "Private Events | Fort Worth Botanic Garden",
+      "url": "https://fwbg.org/private-events/"
+    },
+    {
+      "email": "arlingtonhall@ciemail.com",
+      "venues": "The 29 Most Popular Dallas Wedding Venues for 2026",
+      "url": "https://karinadanielle.com/dallas-wedding-venues/"
+    },
+    {
+      "email": "arlingtonhall@ciemail.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "asiers@ciemail.com",
+      "venues": "Office of Special Events\n            \n            \n            City and Venue Co",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/City-and-Venue-Contact-Information.aspx"
+    },
+    {
+      "email": "audrey.hall@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "bambi@chateauatforestpark.com",
+      "venues": "Fort Worth Event Venue | Weddings & Quincea\u00f1eras | Chateau at Forest Park",
+      "url": "https://www.chateauatforestpark.com/booking/faqs.html"
+    },
+    {
+      "email": "Brandon.Sotelo@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "bwilbins@dallasfilm.org",
+      "venues": "Contact Us - Dallas Film",
+      "url": "https://diffdallas.org/contact"
+    },
+    {
+      "email": "careers@westin-southlake.com",
+      "venues": "Jose Beltran",
+      "url": "linkedin.com/in/jose-beltran-818b40218"
+    },
+    {
+      "email": "catering@harwoodhospitality.com",
+      "venues": "Private Events | NDA in Dallas, TX",
+      "url": "https://www.ndadallas.com/private-events"
+    },
+    {
+      "email": "CCTSpecialevents@dallascityhall.com",
+      "venues": "Office of Special Events\n            \n            \n            City and Venue Co",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/City-and-Venue-Contact-Information.aspx"
+    },
+    {
+      "email": "Charly.Petrek@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "chris.moss@arlingtonreport.org",
+      "venues": "Historic Arlington cemetery marks 175th year with open tours | Fort Worth Report",
+      "url": "https://fortworthreport.org/2026/05/11/historic-arlington-cemetery-marks-175th-year-with-open-tours/"
+    },
+    {
+      "email": "Christine.Gillett@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "contact@theterracedallas.com",
+      "venues": "The Terrace | Event Rental Spaces in Dallas, TX",
+      "url": "https://www.bfeventsdallas.com/the-terrace-dallas"
+    },
+    {
+      "email": "Cynthia.Serrano@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "dallaspalms@gmail.com",
+      "venues": "Dallas Palms | Event Center Dallas Palms| The Dallas Palms Venue",
+      "url": "https://dallaspalmsvenue.com/"
+    },
+    {
+      "email": "Daniel.Masterson@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "dee.hirsch@oakviewgroup.com",
+      "venues": "Office of Special Events\n            \n            \n            City and Venue Co",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/City-and-Venue-Contact-Information.aspx"
+    },
+    {
+      "email": "dgriffin@ih-corp.com",
+      "venues": "Instagram",
+      "url": "https://www.instagram.com/reel/DWZAyZajnzO/"
+    },
+    {
+      "email": "elissa.kincade@thompsonhotels.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "EMoore@FWBG.org",
+      "venues": "Private Events | Fort Worth Botanic Garden",
+      "url": "https://fwbg.org/private-events/"
+    },
+    {
+      "email": "error@releasecontact.com",
+      "venues": "FinancialContent - Utah's $1.5 Billion Wedding Market Is Reshaping Venue Demand,",
+      "url": "https://markets.financialcontent.com/stocks/article/marketersmedia-2026-5-7-utahs-15-billion-wedding-market-is-reshaping-venue-demand-and-kimball-terrace-is-defining-the-standard-for-a-park-city-wedding-venue"
+    },
+    {
+      "email": "events@cftexas.org",
+      "venues": "Events At The Mabel Peters Caruth Center (MPCC) | CFT",
+      "url": "https://www.cftexas.org/about-cft/event-space/"
+    },
+    {
+      "email": "events@fortworthcountrymemories.com",
+      "venues": "Fort Worth Country Memories \u2013 Wedding Venue in Fort Worth, TX",
+      "url": "https://fortworthcountrymemories.com/"
+    },
+    {
+      "email": "events@fwbg.org",
+      "venues": "Private Events | Fort Worth Botanic Garden",
+      "url": "https://fwbg.org/private-events/"
+    },
+    {
+      "email": "events@nashersculpturecenter.orgAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "events@thecheneyplace.com",
+      "venues": "Four West Michigan Wedding Venues Offering Free Wedding Websites with Online RSV",
+      "url": "https://www.einpresswire.com/article/913608368/four-west-michigan-wedding-venues-offering-free-wedding-websites-with-online-rsvp"
+    },
+    {
+      "email": "Galvan@downtowndallas.com",
+      "venues": "Office of Special Events\n            \n            \n            City and Venue Co",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/City-and-Venue-Contact-Information.aspx"
+    },
+    {
+      "email": "Gary.Olivier@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "gehan.asaad@dallascityhall.com",
+      "venues": "Office of Special Events\n            \n            \n            City and Venue Co",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/City-and-Venue-Contact-Information.aspx"
+    },
+    {
+      "email": "gm@ridallasgalleria.com",
+      "venues": "Carlos Dominguez",
+      "url": "linkedin.com/in/carlos-dominguez-646520136"
+    },
+    {
+      "email": "hello@boxwoodhospitality.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "hello@marie-gabrielle.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "hello@thehillsideestatedfw.com",
+      "venues": "The 29 Most Popular Dallas Wedding Venues for 2026",
+      "url": "https://karinadanielle.com/dallas-wedding-venues/"
+    },
+    {
+      "email": "hickorycreek@waltersweddingestates.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "info@attpac.org",
+      "venues": "Office of Special Events\n            \n            \n            City and Venue Co",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/City-and-Venue-Contact-Information.aspx"
+    },
+    {
+      "email": "info@cullenyards.com",
+      "venues": "Contact Us & Book a Tour | Cullen Yards Fort Worth TX",
+      "url": "https://cullenyards.com/contact"
+    },
+    {
+      "email": "info@dallasartsdistrict.org",
+      "venues": "Office of Special Events\n            \n            \n            City and Venue Co",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/City-and-Venue-Contact-Information.aspx"
+    },
+    {
+      "email": "info@dallascountryfestival.com",
+      "venues": "Contact - 2026 Dallas Country Music & Arts Festival",
+      "url": "https://dallascountryfestival.com/contact/"
+    },
+    {
+      "email": "info@dallasoasis.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "info@deepellumtexas.com",
+      "venues": "Office of Special Events\n            \n            \n            City and Venue Co",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/City-and-Venue-Contact-Information.aspx"
+    },
+    {
+      "email": "info@ervayeventcenter.com",
+      "venues": "Ervay Event Center \u2013 A Unique Downtown Dallas Historic Venue",
+      "url": "https://ervayeventcenter.com/"
+    },
+    {
+      "email": "info@howellanddragon.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "info@knottinghillplace.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "info@onthelevee.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "info@sammonsartcenter.org",
+      "venues": "Art Space for Rental - Sammons Center for the Arts",
+      "url": "https://sammonsartcenter.org/facility-rental/"
+    },
+    {
+      "email": "info@theartisandallas.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "info@thecrescenthotelfw.com",
+      "venues": "Contact Us | Premium Hotels Fort Worth TX | The Crescent",
+      "url": "https://thecrescenthotelfortworth.com/contact-us/"
+    },
+    {
+      "email": "info@thefrenchfarmhousevenue.com",
+      "venues": "The 29 Most Popular Dallas Wedding Venues for 2026",
+      "url": "https://karinadanielle.com/dallas-wedding-venues/"
+    },
+    {
+      "email": "info@thefrenchfarmhousevenue.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "info@thegrandivory.com",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "info@themasondallas.com",
+      "venues": "The 29 Most Popular Dallas Wedding Venues for 2026",
+      "url": "https://karinadanielle.com/dallas-wedding-venues/"
+    },
+    {
+      "email": "info@themasondallas.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "info@theroomonmain.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "ismael.belkoura@fortworthreport.org",
+      "venues": "\u2018A living place\u2019: Historic cemetery preserves memories of Jewish life in Fort Wo",
+      "url": "https://fortworthreport.org/2026/05/14/a-living-place-historic-cemetery-preserves-memories-of-jewish-life-in-fort-worth/"
+    },
+    {
+      "email": "jacqulin.justice@dallas.gov",
+      "venues": "About-Convention-and-Events-Services; contacts; Office of Special Events\n            \n            \n            Contact Us",
+      "url": "https://dallascityhall.com/departments/conventioneventservices/Pages/contacts.aspx"
+    },
+    {
+      "email": "James.Reed@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "jmoore@thecarlisleroom.com",
+      "venues": "The 29 Most Popular Dallas Wedding Venues for 2026",
+      "url": "https://karinadanielle.com/dallas-wedding-venues/"
+    },
+    {
+      "email": "jmoore@thecarlisleroom.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "Joan@2616Commerce.com",
+      "venues": "Event Venue \u2013 Dallas, TX \u2013 2616 Commerce Event Center",
+      "url": "https://www.2616commerce.com/"
+    },
+    {
+      "email": "Justin.Reid@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "kbrant@dallasbar.orgAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "Keith.Chisolm@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "laura.flores@dallas.gov",
+      "venues": "Office of Special Events\n            \n            \n            Contact Us",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/Contact-Us.aspx"
+    },
+    {
+      "email": "Lisa@2616Commerce.com",
+      "venues": "Corporate Event Space \u2013 Dallas, TX \u2013 2616 Commerce Event; Event Venue \u2013 Dallas, TX \u2013 2616 Commerce Event Center",
+      "url": "https://www.2616commerce.com/corporate-event-spaces-dallas"
+    },
+    {
+      "email": "LMcConathy@FWBG.org",
+      "venues": "Private Events | Fort Worth Botanic Garden",
+      "url": "https://fwbg.org/private-events/"
+    },
+    {
+      "email": "marissa.greene@fortworthreport.org",
+      "venues": "\u2018A living place\u2019: Historic cemetery preserves memories of Jewish life in Fort Wo",
+      "url": "https://fortworthreport.org/2026/05/14/a-living-place-historic-cemetery-preserves-memories-of-jewish-life-in-fort-worth/"
+    },
+    {
+      "email": "membership@bishopartsdistrict.com",
+      "venues": "Office of Special Events\n            \n            \n            City and Venue Co",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/City-and-Venue-Contact-Information.aspx"
+    },
+    {
+      "email": "Michael.Crum@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "Michael.Zander@oncor.com",
+      "venues": "Office of Special Events\n            \n            \n            City and Venue Co",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/City-and-Venue-Contact-Information.aspx"
+    },
+    {
+      "email": "michelle@hickorystreetannex.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "Nancy.Braesicke@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "pberryman@fwbg.org",
+      "venues": "Private Events | Fort Worth Botanic Garden",
+      "url": "https://fwbg.org/private-events/"
+    },
+    {
+      "email": "reginald.williams1@dallas.gov",
+      "venues": "About-Convention-and-Events-Services; contacts",
+      "url": "https://dallascityhall.com/departments/conventioneventservices/Pages/contacts.aspx"
+    },
+    {
+      "email": "rkazmierski@bizjournals.com",
+      "venues": "Denton County Growth Summit - Dallas Business Journal",
+      "url": "https://www.bizjournals.com/dallas/event/172779/2026/denton-county-growth-summit"
+    },
+    {
+      "email": "rockwall@thespringsevents.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "roomreservations@dallascityhall.com",
+      "venues": "Office of Special Events\n            \n            \n            City and Venue Co",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/City-and-Venue-Contact-Information.aspx"
+    },
+    {
+      "email": "rosa.fleming@dallas.gov",
+      "venues": "About-Convention-and-Events-Services; contacts; Office of Special Events\n            \n            \n            Contact Us",
+      "url": "https://dallascityhall.com/departments/conventioneventservices/Pages/contacts.aspx"
+    },
+    {
+      "email": "sales.dallas@virginhotels.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "sales@crescentcourt.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "sales@hallartshotel.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "sales@reuniontower.com",
+      "venues": "Reunion Tower offers exclusive SMU graduation experiences",
+      "url": "https://cw33.com/news/local/reunion-tower-offers-exclusive-smu-graduation-experiences/"
+    },
+    {
+      "email": "sales@theharperfortworth.com",
+      "venues": "Event & Meeting Space in Fort Worth | Kimpton Harper Hotel",
+      "url": "https://www.theharperfortworth.com/meetings-and-events/"
+    },
+    {
+      "email": "salesleads@adolphus.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "Shanda.cartwright@fortworthtexas.gov",
+      "venues": "Fort Worth Vacation - Hotels, Restaurants, Maps, Things to Do in Fort Worth",
+      "url": "https://www.fortworth.com/will-rogers-memorial-center/will-rogers-staff/"
+    },
+    {
+      "email": "simon.giles@encoreglobal.com",
+      "venues": "",
+      "url": "https://www.nemra.org/wp-content/uploads/2021/09/Anatole-Dallas-Hotel-Contacts2.pdf"
+    },
+    {
+      "email": "specialevents@westongardens.com",
+      "venues": "Weston Gardens - Outdoor Garden Wedding Venue Fort Worth, TX- Wedding Venues in ",
+      "url": "http://www.westongardensweddings.com/"
+    },
+    {
+      "email": "Sustainability@marriott.com",
+      "venues": "The Worthington Renaissance Fort Worth Hotel | Cvent",
+      "url": "https://www.cvent.com/venues/sv-SE/fort-worth/hotel/the-worthington-renaissance-fort-worth-hotel/venue-51413025-81d7-46c5-89b5-aa834d94b40d"
+    },
+    {
+      "email": "tbolton@dma.orgAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "themansion@rosewoodhotels.comAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "tony.armer@dallascreates.org",
+      "venues": "Office of Special Events\n            \n            \n            City and Venue Co",
+      "url": "https://dallascityhall.com/departments/office-special-events/Pages/City-and-Venue-Contact-Information.aspx"
+    },
+    {
+      "email": "twhite@bizjournals.com",
+      "venues": "Denton County Growth Summit - Dallas Business Journal",
+      "url": "https://www.bizjournals.com/dallas/event/172779/2026/denton-county-growth-summit"
+    },
+    {
+      "email": "weddings@dallasarboretum.orgAddress",
+      "venues": "Dallas Wedding Venues | A Comprehensive Guide",
+      "url": "https://georgiasheridanphotography.com/2024/01/15/dallas-wedding-venues/"
+    },
+    {
+      "email": "WEGD@marriott.com",
+      "venues": "The Worthington Renaissance Fort Worth Hotel | Cvent",
+      "url": "https://www.cvent.com/venues/sv-SE/fort-worth/hotel/the-worthington-renaissance-fort-worth-hotel/venue-51413025-81d7-46c5-89b5-aa834d94b40d"
+    }
+  ]
+}
