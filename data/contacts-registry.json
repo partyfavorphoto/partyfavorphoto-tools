@@ -1,10 +1,10 @@
 {
-  "updated": "2026-05-21T18:45:00Z",
+  "updated": "2026-05-21T19:00:00Z",
   "total_in_pool": 768,
-  "total_contacted_from_pool": 730,
-  "total_untouched_in_pool": 38,
-  "total_sent_records_merged": 991,
-  "contact_rate_pct": 95.1,
+  "total_contacted_from_pool": 763,
+  "total_untouched_in_pool": 5,
+  "total_sent_records": 1035,
+  "contact_rate_pct": 99.3,
   "contacts": [
     {
       "email": "senioractivities@hphspta.org",
@@ -6790,8 +6790,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "admin@QuakersDC.org",
@@ -6802,8 +6802,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "ateventrentals@dc.gov",
@@ -6814,8 +6814,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "atnatalie@mtghospitality.com",
@@ -6826,8 +6826,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "atnhevents@si.eduto",
@@ -6850,8 +6850,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "catering@nationalgolfclubmd.com",
@@ -6862,8 +6862,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "ciheacho@phoenixparkhotel.com",
@@ -6886,8 +6886,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "eventrentals@dc.gov",
@@ -6898,8 +6898,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "eventrentals@phillipscollection.org",
@@ -6922,8 +6922,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "events@dumbartonhouse.org",
@@ -6934,8 +6934,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "eventspace@quakersdc.org",
@@ -6946,8 +6946,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "gbcs@umc-gbcs.org",
@@ -6958,8 +6958,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "info@herecomestheguide.com",
@@ -6982,8 +6982,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "info@srmfoundation.org",
@@ -6994,8 +6994,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "jwashington@phoenixparkhotel.com",
@@ -7018,8 +7018,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "laldana@phoenixparkhotel.com",
@@ -7042,8 +7042,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "magicsmilesphotobooth@outlook.com",
@@ -7054,8 +7054,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "media@ncbfdc.org",
@@ -7066,8 +7066,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "michele@longviewgallerydc.com",
@@ -7090,8 +7090,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "ncbf@ncbfdc.org",
@@ -7102,8 +7102,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "NHEvents@si.edu",
@@ -7114,8 +7114,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "NMNH-Comms@si.eduor",
@@ -7138,8 +7138,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "rentals@ahsgardening.org",
@@ -7162,8 +7162,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "sales@hayadams.com",
@@ -7198,8 +7198,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "sales@thehotelwashington.com",
@@ -7222,8 +7222,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "shall@phoenixparkhotel.com",
@@ -7246,8 +7246,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "spacerental@publicwelfare.org",
@@ -7258,8 +7258,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "spaceusage@publicwelfare.org",
@@ -7270,8 +7270,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "specialeventsinquiry@nmwa.org",
@@ -7294,8 +7294,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "thefields@goplaydc.org",
@@ -7306,8 +7306,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "Tiffany.Barrett@concordhotels.com",
@@ -7318,8 +7318,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "volunteer@ncbfdc.org",
@@ -7330,8 +7330,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "xmrtnet@gmail.com",
@@ -7376,8 +7376,8 @@
       "topics": "vendor, vendors, vienna, festival, booth",
       "status": "pending",
       "topic": "Memorial Day",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     }
   ]
 }
