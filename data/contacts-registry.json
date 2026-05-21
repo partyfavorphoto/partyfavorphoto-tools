@@ -1,10 +1,11 @@
 {
-  "updated": "2026-05-21T19:00:00Z",
-  "total_in_pool": 768,
+  "updated": "2026-05-21T19:10:00Z",
+  "total_in_pool": 765,
   "total_contacted_from_pool": 763,
-  "total_untouched_in_pool": 5,
+  "total_untouched_in_pool": 2,
   "total_sent_records": 1035,
-  "contact_rate_pct": 99.3,
+  "contact_rate_pct": 99.7,
+  "notes": "3 test emails removed from pool (digameexpress, toptourscostarica, xmrtnet)",
   "contacts": [
     {
       "email": "senioractivities@hphspta.org",
@@ -7332,40 +7333,6 @@
       "status": "pending",
       "contacted": true,
       "sent_count": 1
-    },
-    {
-      "email": "xmrtnet@gmail.com",
-      "name": "XMRTnet",
-      "region": "Unknown",
-      "source": "hermes-quote",
-      "topics": "quote sent",
-      "added": "2026-05-20T21:26:33.686Z",
-      "status": "quoted",
-      "contacted": false,
-      "sent_count": 0
-    },
-    {
-      "email": "toptourscostarica@gmail.com",
-      "name": "Top Tours Costa Rica",
-      "region": "Costa Rica",
-      "source": "hermes-quote",
-      "topics": "quote sent",
-      "added": "2026-05-20T21:26:33.689Z",
-      "status": "quoted",
-      "contacted": false,
-      "sent_count": 0
-    },
-    {
-      "email": "digameexpress@gmail.com",
-      "name": "Joe (digameexpress)",
-      "venue": "",
-      "source": "website-booking",
-      "region": "Unknown",
-      "topics": "booking, wedding, May 30",
-      "added": "2026-05-20T22:05:24.467Z",
-      "status": "quoted",
-      "contacted": false,
-      "sent_count": 0
     },
     {
       "email": "test@email.com",
