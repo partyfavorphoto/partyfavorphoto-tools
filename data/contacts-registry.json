@@ -1,11 +1,10 @@
 {
-  "updated": "2026-05-21",
+  "updated": "2026-05-21T18:45:00Z",
   "total_in_pool": 768,
-  "total_contacted": 715,
-  "total_untouched": 53,
-  "total_sent_records": 912,
-  "unique_sent_emails": 912,
-  "orphan_sends_not_in_pool": 197,
+  "total_contacted_from_pool": 730,
+  "total_untouched_in_pool": 38,
+  "total_sent_records_merged": 991,
+  "contact_rate_pct": 95.1,
   "contacts": [
     {
       "email": "senioractivities@hphspta.org",
@@ -6779,8 +6778,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "admin@capitolhillpreschurch.org",
@@ -6839,8 +6838,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "bmefford@festivalcenter.org",
@@ -6875,8 +6874,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "dmays@eventsdc.com",
@@ -6911,8 +6910,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "events@busboysandpoets.com",
@@ -6971,8 +6970,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "info@hookhall.com",
@@ -7007,8 +7006,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "kweber@nmwa.org",
@@ -7031,8 +7030,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "Laura@LIGevents.com",
@@ -7079,8 +7078,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "mimi@washingtoncountryclub.golf",
@@ -7127,8 +7126,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "Phillips202-318-6952info@procaterersdc.com",
@@ -7151,8 +7150,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "sakuramatsuri@jaswdc.org",
@@ -7175,8 +7174,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "Sales@jeffersondc.com",
@@ -7187,8 +7186,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "sales@salamanderdc.com",
@@ -7211,8 +7210,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "Salesinfo@eventsdc.com",
@@ -7235,8 +7234,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "shellypatephoto@gmail.com",
@@ -7283,8 +7282,8 @@
       "topics": "venue, event space",
       "added": "2026-05-20T17:37:50.491Z",
       "status": "pending",
-      "contacted": false,
-      "sent_count": 0
+      "contacted": true,
+      "sent_count": 1
     },
     {
       "email": "tdent@lpc.com",
