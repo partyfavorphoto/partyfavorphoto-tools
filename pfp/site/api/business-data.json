@@ -1,0 +1,106 @@
+{
+  "business": {
+    "name": "Party Favor Photo",
+    "description": "Award-winning photo booth rental services for weddings, corporate events, and special celebrations",
+    "phone": "(202) 798-0610",
+    "email": "bookings@partyfavorphoto.com",
+    "website": "https://partyfavorphoto.com",
+    "address": {
+      "street": "",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "",
+      "country": "US"
+    },
+    "geo": {
+      "latitude": 38.9072,
+      "longitude": -77.0369
+    },
+    "serviceAreas": [
+      "Washington DC",
+      "Arlington VA",
+      "Alexandria VA",
+      "Fairfax VA",
+      "Bethesda MD",
+      "Silver Spring MD",
+      "Dallas TX",
+      "Fort Worth TX",
+      "Philadelphia PA",
+      "Princeton NJ"
+    ],
+    "hours": {
+      "monday": "9:00 AM - 9:00 PM",
+      "tuesday": "9:00 AM - 9:00 PM",
+      "wednesday": "9:00 AM - 9:00 PM",
+      "thursday": "9:00 AM - 9:00 PM",
+      "friday": "9:00 AM - 11:00 PM",
+      "saturday": "8:00 AM - 11:00 PM",
+      "sunday": "10:00 AM - 8:00 PM"
+    },
+    "social": {
+      "instagram": "https://instagram.com/partyfavorphoto",
+      "facebook": "https://facebook.com/partyfavorphoto",
+      "tiktok": "https://tiktok.com/@partyfavorphoto"
+    }
+  },
+  "services": [
+    {
+      "id": "wedding",
+      "name": "Wedding Photo Booth",
+      "description": "Elegant photo booth experience for your special day",
+      "price": 498,
+      "currency": "USD",
+      "duration": "4 hours",
+      "features": [
+        "Unlimited photos",
+        "Instant prints",
+        "Custom photo templates",
+        "Digital gallery",
+        "Professional attendant",
+        "Props included"
+      ],
+      "popular": true
+    },
+    {
+      "id": "corporate",
+      "name": "Corporate Event Photo Booth",
+      "description": "Professional photo booth for corporate events and conferences",
+      "price": 695,
+      "currency": "USD",
+      "duration": "4 hours",
+      "features": [
+        "Branded photo templates",
+        "Logo integration",
+        "Instant prints",
+        "Digital gallery",
+        "Professional attendant",
+        "Social media sharing"
+      ],
+      "popular": true
+    },
+    {
+      "id": "party",
+      "name": "Party Celebration Booth",
+      "description": "Fun photo booth for birthdays, anniversaries, and celebrations",
+      "price": 595,
+      "currency": "USD",
+      "duration": "4 hours",
+      "features": [
+        "Unlimited photos",
+        "Instant prints",
+        "Custom templates",
+        "Digital gallery",
+        "Props included",
+        "Guest book option"
+      ],
+      "popular": false
+    }
+  ],
+  "paymentMethods": [
+    "Credit Card (Stripe)",
+    "Debit Card",
+    "Cash (on delivery)"
+  ],
+  "bookingUrl": "https://partyfavorphoto.com/api/booking",
+  "lastUpdated": "2026-05-25T20:30:00Z"
+}
