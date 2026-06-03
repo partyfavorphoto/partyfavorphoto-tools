@@ -22,8 +22,8 @@ header p{font-size:15px;opacity:0.92;font-style:italic}
 .stripe-btn:hover{background:#b91c1c}
 .form-group{margin:20px 0}
 .form-group label{display:block;font-weight:bold;margin-bottom:8px;color:#333}
-.form-group input,.form-group select,.form-group textarea{width:100%;padding:14px;border:2px solid #e5e7eb;border-radius:8px;font-size:16px;font-family:inherit}
-.form-group input:focus,.form-group select:focus,.form-group textarea:focus{outline:none;border-color:#d12e2e}
+.form-group input,.form-group select{width:100%;padding:14px;border:2px solid #e5e7eb;border-radius:8px;font-size:16px;font-family:inherit}
+.form-group input:focus,.form-group select:focus{outline:none;border-color:#d12e2e}
 .form-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
 .submit-btn{background:#d12e2e;color:white;padding:18px 48px;border:none;border-radius:8px;font-size:18px;font-weight:bold;cursor:pointer;width:100%;margin-top:20px}
 .submit-btn:hover{background:#b91c1c}
@@ -154,7 +154,7 @@ footer .footer-logo{display:block;margin:0 auto 14px;width:140px;height:auto;opa
 </div>
 <div class="form-group">
 <label>Special Requests</label>
-<textarea name="message" rows="4" placeholder="Tell us about your event, branding needs, etc."</textarea>
+<input type="text" name="message" placeholder="Tell us about your event, branding needs, etc." style="height:48px">
 </div>
 <button type="submit" class="submit-btn">Request Quote</button>
 <p style="text-align:center;margin-top:15px;color:#666;font-size:14px;">We'll respond within 24 hours with a custom quote</p>
