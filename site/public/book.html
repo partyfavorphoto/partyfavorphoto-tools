@@ -7,10 +7,11 @@
 <style>
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:Georgia,'Times New Roman',serif;line-height:1.6;color:#222;background:#f9fafb}
-header{background:#d12e2e;color:white;padding:20px 0;text-align:center}
-header h1{font-size:32px;margin-bottom:8px}
-header p{font-size:16px;opacity:0.9}
-.container{max-width:800px;margin:40px auto;padding:0 24px}
+header{background:linear-gradient(135deg,#d12e2e 0%,#a91d1d 100%);color:white;padding:24px 0 28px;text-align:center;box-shadow:0 2px 12px rgba(0,0,0,0.12)}
+header .logo{display:block;margin:0 auto 10px;width:260px;max-width:70%;height:auto;filter:drop-shadow(0 2px 6px rgba(0,0,0,0.25))}
+header h1{font-size:30px;margin-bottom:6px;letter-spacing:1px}
+header p{font-size:15px;opacity:0.92;font-style:italic}
+.container{max-width:880px;margin:40px auto;padding:0 24px}
 .card{background:white;border-radius:12px;padding:40px;margin:30px 0;box-shadow:0 4px 12px rgba(0,0,0,0.08)}
 .card h2{color:#d12e2e;font-size:28px;margin-bottom:20px;border-bottom:2px solid #e5e7eb;padding-bottom:15px}
 .price-box{background:#fef2f2;border:2px solid #d12e2e;border-radius:8px;padding:25px;margin:25px 0}
@@ -30,12 +31,27 @@ header p{font-size:16px;opacity:0.9}
 .contact-item h4{font-size:13px;color:#666;margin-bottom:8px;text-transform:uppercase}
 .contact-item a,.contact-item p{color:#333;text-decoration:none;font-size:16px}
 footer{background:#1f2937;color:white;text-align:center;padding:30px;margin-top:60px}
-@media(max-width:768px){.form-grid{grid-template-columns:1fr}}
+footer .footer-logo{display:block;margin:0 auto 14px;width:140px;height:auto;opacity:0.85}
+.hero-strip{margin:30px 0;border-radius:12px;overflow:hidden;box-shadow:0 6px 20px rgba(0,0,0,0.15);background:#000}
+.hero-strip img{display:block;width:100%;height:auto;max-height:380px;object-fit:cover}
+.hero-caption{padding:18px 24px;background:#fff;color:#555;font-style:italic;font-size:15px;text-align:center;border-top:1px solid #eee}
+.gallery{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin:24px 0 8px}
+.gallery figure{margin:0;border-radius:10px;overflow:hidden;background:#000;box-shadow:0 2px 8px rgba(0,0,0,0.1);position:relative}
+.gallery img{display:block;width:100%;height:160px;object-fit:cover;transition:transform 0.3s}
+.gallery figure:hover img{transform:scale(1.05)}
+.gallery figcaption{position:absolute;left:0;right:0;bottom:0;background:linear-gradient(transparent,rgba(0,0,0,0.75));color:#fff;font-size:12px;padding:18px 10px 8px;text-align:center;letter-spacing:0.5px}
+@media(max-width:768px){
+  .form-grid{grid-template-columns:1fr}
+  .gallery{grid-template-columns:repeat(2,1fr)}
+  header h1{font-size:24px}
+  header .logo{width:200px}
+  .hero-strip img{max-height:240px}
+}
 </style>
 </head>
 <body>
 <header>
-<h1>PARTY FAVOR PHOTO</h1>
+<img class="logo" src="/images/party-favor-logo.jpg" alt="Party Favor Photo">
 <p>Premium StudioStation Photo Experience</p>
 </header>
 <div class="container">
@@ -56,6 +72,35 @@ footer{background:#1f2937;color:white;text-align:center;padding:30px;margin-top:
 <p style="text-align:center;color:#666;"><em>For custom quotes on 5+ hour bookings, use the form below</em></p>
 </div>
 </div>
+
+<div class="hero-strip">
+<img src="/images/hero-booth.jpg" alt="Party Favor Photo booth setup with sequin backdrop, professional lighting, and DSLR camera" loading="lazy">
+<div class="hero-caption">Our signature setup: sequin backdrop, pro strobes, DSLR, and a full prop box — ready for any event.</div>
+</div>
+
+<div class="card">
+<h2>🎉 See Us In Action</h2>
+<p style="color:#666;margin-bottom:8px;">A taste of what we bring to weddings, corporate events, and celebrations across DC, NoVA, MD, and DFW.</p>
+<div class="gallery">
+  <figure>
+    <img src="/images/wedding-booth.jpg" alt="Wedding guests laughing at the photo booth" loading="lazy">
+    <figcaption>Weddings</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/corporate-booth.jpg" alt="Corporate event attendees posing for the camera" loading="lazy">
+    <figcaption>Corporate</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/celebration-booth.jpg" alt="Birthday celebration with balloon arch and photo booth" loading="lazy">
+    <figcaption>Celebrations</figcaption>
+  </figure>
+  <figure>
+    <img src="/images/studio-station.jpg" alt="Studio Station photo booth setup with props and lighting at a real venue" loading="lazy">
+    <figcaption>Studio Station</figcaption>
+  </figure>
+</div>
+</div>
+
 <div class="card">
 <h2>📝 Request Custom Quote</h2>
 <p style="color:#666;margin-bottom:25px;">For extended bookings (5+ hours), premium packages, or special requirements</p>
@@ -108,7 +153,7 @@ footer{background:#1f2937;color:white;text-align:center;padding:30px;margin-top:
 </div>
 <div class="form-group">
 <label>Special Requests</label>
-<textarea name="message" rows="4" placeholder="Tell us about your event, branding needs, etc."></textarea>
+<textarea name="message" rows="4" placeholder="Tell us about your event, branding needs, etc."</textarea>
 </div>
 <button type="submit" class="submit-btn">Request Quote</button>
 <p style="text-align:center;margin-top:15px;color:#666;font-size:14px;">We'll respond within 24 hours with a custom quote</p>
@@ -130,6 +175,7 @@ footer{background:#1f2937;color:white;text-align:center;padding:30px;margin-top:
 </div>
 </div>
 <footer>
+<img class="footer-logo" src="/images/party-favor-logo.jpg" alt="Party Favor Photo">
 <p>&copy; 2026 Party Favor Photo - $1M General Liability Insurance</p>
 </footer>
 <script>
